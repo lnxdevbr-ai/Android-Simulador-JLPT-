@@ -1,4 +1,4 @@
-# Android-Simulador-JLPT-
+# Android-Simulador-JLPT
 Simples Simulador do JLPT níveis N3 N4 N5
 
 Ao baixar e instalar o aplicativo voce concorda que:
